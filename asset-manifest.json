@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.378d810a.css",
+    "main.js": "/static/js/main.15134e71.js",
+    "static/media/wallpapersden.com_jett-valorant-4k_3840x2160.jpg": "/static/media/wallpapersden.com_jett-valorant-4k_3840x2160.f934bb6e356b3f6a2c87.jpg",
+    "static/media/skins.png": "/static/media/skins.b4db793020d1358d5b12.png",
+    "static/media/kayo.png": "/static/media/kayo.f543f3b8e3219af8b4fa.png",
+    "static/media/neon.png": "/static/media/neon.b8f1b262525fb6025eb4.png",
+    "static/media/Chamber.png": "/static/media/Chamber.60bdcff6832616d360e7.png",
+    "static/media/maps.png": "/static/media/maps.cd8e25ff80cc4a3130bc.png",
+    "static/media/skye.png": "/static/media/skye.7aac9afae99bd618a755.png",
+    "static/media/guns.png": "/static/media/guns.8ef35a793f89260626d0.png",
+    "static/media/breach.png": "/static/media/breach.e9c35b4af10618de26f5.png",
+    "static/media/astra.png": "/static/media/astra.53722c9a85537716b871.png",
+    "static/media/raze.png": "/static/media/raze.a317422e83d2ee604a38.png",
+    "static/media/killjoy.png": "/static/media/killjoy.5a024d7ef00fc4813e81.png",
+    "static/media/omen.png": "/static/media/omen.a0f40e83a968a5c062f3.png",
+    "static/media/yoru.png": "/static/media/yoru.a9dacafbc8351fcbdde5.png",
+    "static/media/brimstone.png": "/static/media/brimstone.3aa8f6db63c3cddec765.png",
+    "static/media/reyna.png": "/static/media/reyna.b00d594d75d8efe327df.png",
+    "static/media/fade.png": "/static/media/fade.a0b820b680ea02bc73f8.png",
+    "static/media/phoenix.png": "/static/media/phoenix.f4a27274a800f5d12ede.png",
+    "static/media/jett.png": "/static/media/jett.3190005ce375dcabc5a9.png",
+    "static/media/sova.png": "/static/media/sova.0785fcd17c09ab45c5b6.png",
+    "static/media/viper.png": "/static/media/viper.77ec4249378f2cd09a15.png",
+    "static/media/sage.png": "/static/media/sage.d19003c2a1b019751d48.png",
+    "static/media/cypher.png": "/static/media/cypher.0fd013db49b6a65bd6e4.png",
+    "static/media/riot-games-logo-0.png": "/static/media/riot-games-logo-0.74077768f15b59694ef5.png",
+    "static/media/agentssec.jpg": "/static/media/agentssec.6e2adda293c2b0c40fe3.jpg",
+    "static/media/valoranttitle.png": "/static/media/valoranttitle.60619d594ec073c2f01a.png",
+    "index.html": "/index.html",
+    "main.378d810a.css.map": "/static/css/main.378d810a.css.map",
+    "main.15134e71.js.map": "/static/js/main.15134e71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.378d810a.css",
+    "static/js/main.15134e71.js"
+  ]
+}
